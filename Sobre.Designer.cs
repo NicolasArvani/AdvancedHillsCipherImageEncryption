@@ -86,6 +86,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Sobre";
             this.Text = "Sobre";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
