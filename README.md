@@ -4,10 +4,10 @@ Instituto Federal de Ciência, Educação e Tecnologia de São Paulo - Campus Sa
 
 ### Integrantes:
 
-Nicolas Alberto Arvani Pereira
-Erick Henrique De Araujo Moreira
-Fernanda  Miyuki Egawa
-Henry Sant’ana Lomba
-Gustavo Milan Cardoso
+* Nicolas Alberto Arvani Pereira
+* Erick Henrique De Araujo Moreira
+* Fernanda  Miyuki Egawa
+* Henry Sant’ana Lomba
+* Gustavo Milan Cardoso
 
 
